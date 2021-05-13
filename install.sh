@@ -1,8 +1,5 @@
 #!/bin/bash
 
-# Hide "last login" line when starting a new terminal session
-touch $HOME/.hushlogin
-
 # ------------------------------------ Update & Upgrade ---------------------------------
 apt clean && apt update -y && apt upgrade -y &&
     # ------------------------------------ Install Tools ------------------------------------
