@@ -43,9 +43,6 @@ curl https://raw.githubusercontent.com/jesseduffield/lazydocker/master/scripts/i
 # The Fuck is a magnificent app, that corrects errors in previous console commands.
 pip3 install thefuck
 
-# A command-line tool and library for generating regular expressions from user-provided test cases.
-brew install grex
-
 # ------------------------------------ Install PHP and Extentions ------------------------------------
 add-apt-repository -y ppa:ondrej/php
 
